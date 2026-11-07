@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>别忘</string>
+    <key>CFBundleDisplayName</key>
+    <string>别忘</string>
+    <key>CFBundleIdentifier</key>
+    <string>local.bieuwang.app</string>
+    <key>CFBundleExecutable</key>
+    <string>别忘</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSCalendarsUsageDescription</key>
+    <string>别忘需要访问日历，把你的提醒写进「别忘」日历，这样它能随 iCloud 同步到你的 iPhone，App 关着也会提醒你。</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>别忘需要访问日历，把你的提醒写进「别忘」日历，这样它能随 iCloud 同步到你的 iPhone，App 关着也会提醒你。</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>GPL-3.0-or-later</string>
+</dict>
+</plist>
