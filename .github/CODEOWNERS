@@ -1,0 +1,13 @@
+# 代码所有者
+#
+# 作用：涉及这些路径的 PR 会自动请求对应的人来审。
+# 格式：<路径模式>  <@用户名 或 邮箱>
+# 文档：https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# 默认：所有文件都指派给维护者
+*                       @hbz12138
+
+# 以后有其他人参与时，可以按目录细分，例如：
+# /Sources/Domain/      @某人
+# /Sources/UI/          @另一个人
+# /.github/             @hbz12138
