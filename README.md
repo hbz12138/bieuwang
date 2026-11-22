@@ -180,7 +180,9 @@ make check
 
 ## 贡献
 
-Issue 和 Pull Request 都欢迎。改动前请先跑一次 `make check`，并保持「业务规则不碰界面」这条分层约定。
+Issue 和 Pull Request 都欢迎。**提 PR 之前请先读 [CONTRIBUTING.md](CONTRIBUTING.md)**，里面有分支命名、提交信息、审查与合并的约定。
+
+最低要求：改动前后各跑一次 `make check`，并保持「业务规则不碰界面」这条分层约定。
 
 由于采用 GPL-3.0，你提交的修改会以同一许可证发布。
 
